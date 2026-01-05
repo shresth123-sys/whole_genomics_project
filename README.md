@@ -1,1 +1,1 @@
-# whole_genomics_project
+# Viral_genomics_project
